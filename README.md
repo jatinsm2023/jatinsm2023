@@ -63,8 +63,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/jatinsm2023/jatinsm2023/output/snake.svg" alt="Snake animation" />
 
 ###
