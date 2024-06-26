@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A CSE 3rd year from IIT Kharagpur, India.</p>
+<p align="left">CSE 3rd year GUY from IIT Kharagpur, India.</p>
 
 ###
 
